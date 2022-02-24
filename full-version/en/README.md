@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Versão em Português](https://img.shields.io/badge/Portugu%C3%AAs-%23563D7C.svg?style=for-the-badge&logo=googletranslate&labelColor=dedede&logoColor=4b8bf4&color=4c8cf5)](full-version/pt/README.md)
+[![Versão em Português](https://img.shields.io/badge/Portugu%C3%AAs-%23563D7C.svg?style=for-the-badge&logo=googletranslate&labelColor=dedede&logoColor=4b8bf4&color=4c8cf5)](/full-version/pt/README.md)
 
 </div>
 <p align="center">
