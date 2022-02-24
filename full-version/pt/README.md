@@ -1,10 +1,10 @@
 <div align="right">
 
-[![GoggleTranslateEN](https://img.shields.io/badge/English-%23563D7C.svg?style=for-the-badge&logo=googletranslate&labelColor=dedede&logoColor=4b8bf4&color=4c8cf5)](/README.md)
+[![English Version](https://img.shields.io/badge/English-%23563D7C.svg?style=for-the-badge&logo=googletranslate&labelColor=dedede&logoColor=4b8bf4&color=4c8cf5)](/full-version/en/README.md)
 
 </div>
 <p align="center">
-  <img src="/resources/img/profile_photo.png" width="200" style="border-radius:50%" /><br/>
+  <a href="https://github.com/kunioshi"><img src="https://github.com/kunioshi.png" width="200" style="border-radius:50%" /></a><br/>
   <font size="+3em" bold><b>Filipe Kunioshi</b></font><br/>
   <small>Brasileiro - Nascido em 1991 (31 anos)<br/>
   Atualmente em Londrina, PR, Brasil</small>
