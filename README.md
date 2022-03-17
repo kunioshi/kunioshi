@@ -1,5 +1,5 @@
 ## About Me
-I'm Filipe, born in 1991, and I'm an iOS and Web Developer. But I have an Associate Degree in Game Development.
+I'm Filipe, born in 1991, and I'm an iOS and Web Developer with an Associate Degree in Game Development.
 
 ## What am I up to?
 Currently, I'm studiyng Go and React. Also, looking for some time to go Game Dev again.
@@ -7,7 +7,7 @@ Currently, I'm studiyng Go and React. Also, looking for some time to go Game Dev
 ## Main Skills
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-flat-square&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)<br/>
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
