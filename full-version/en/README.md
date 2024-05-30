@@ -6,29 +6,29 @@
 <p align="center">
   <a href="https://github.com/kunioshi"><img src="https://github.com/kunioshi.png" width="200" style="border-radius:50%" /></a><br/>
   <font size="+3em" bold><b>Filipe Kunioshi</b></font><br/>
-  <small>Brazilian - Born in 1991 (31-yo)<br/>
+  <small>Brazilian - Born in 1991<br/>
   Currently in Londrina, PR, Brazil</small>
 </p>
     
 <h3>About Me</h3>
 
-* Exploring new technologies and developing new solutions;
-* <b>7 years</b> of experience in software development;
-* Worked with many programming languages.
+* Passinate about software architecture and customer experience;
+* <b>11 years</b> of experience in software development;
+* Wide range of experiences, ranging from start-to-finish designing games to banking applications.
 
 <h3>Skills</h3>
 
 **Programming Languages**
 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Language-Specific Tools**
 
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=darkorchid)
@@ -43,7 +43,6 @@
 **General Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=008cd4)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -66,17 +65,19 @@
 
 <h3>Experience</h3>
 
-* **Web Developer (PHP)** at Agencia Tuca <br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Mar 2018 ~ Aug 2021
+* **iOS Software Engineer** at NTT Data EMEAL <br/>Full-remote &nbsp;-&nbsp; Apr 2022 ~ Today
+  * Provided consultation on the client's software solution needs and participated in the development of the projects in the banking industry.
+* **PHP Software Engineer** at Agencia Tuca <br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Mar 2018 ~ Oct 2022
   * Developed, integrated, maintained and optimized web projects as per the client's needs.
-* **Web Developer (PHP)** at Brazilian Medic Association (AMB)<br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Nov 2016 ~ Mar 2018
+* **PHP Software Engineer** at Brazilian Medic Association (AMB)<br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Nov 2016 ~ Mar 2018
   * Developed, integrated, maintained and optimized nationwide web projects that aimed to help and promote common causes for the Brazilian medics and their Regional Medic Associations.
 * **Customer Services** at Spokes Bicycle Rentals<br/>Vancouver, BC, Canada &nbsp;-&nbsp; Mar 2016 ~ Nov 2016
   * Performed QA and safety routines on their products and provided the final user with instructions and answers to their questions.
-* **Mobile Developer (iOS)** at Agence Consultoria <br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Aug 2015 ~ Nov 2015
+* **iOS Software Engineer** at Agence Consultoria <br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Aug 2015 ~ Nov 2015
   * Resumed the development to an iPad app and worked closely with the back-end team, assisting them in creating a new API to integrate with the app.
-* **Mobile Developer (iOS)** at Zitro Brothers Entertainment <br/>Burnaby, BC, Canada (remote) &nbsp;-&nbsp; Nov 2013 ~ Dec 2014
+* **iOS Software Engineer** at Zitro Brothers Entertainment <br/>Burnaby, BC, Canada (remote) &nbsp;-&nbsp; Nov 2013 ~ Dec 2014
   * Resumed the development of, and published at App Store, an educational game for iPad and implementing new features and improving existing ones based on feedback given to, and approved by, the client.
-* **Intern Mobile Developer (iOS)** at Brazilian Education Program for iOS Development (BEPiD)<br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Aug 2013 ~ Dec 2014
+* **Internship iOS Software Engineer** at Brazilian Education Program for iOS Development (BEPiD)<br/>São Paulo, SP, Brazil &nbsp;-&nbsp; Aug 2013 ~ Dec 2014
   * Learned the applied Apple's development methodologies and best practices for iOS mobiles.
 
 <h3>Education</h3>
@@ -90,8 +91,8 @@
 
 <h3>Hobbies</h3>
 
-* Playing **Piano**
-* Reading **Light Novels**
+* Learning **Piano**
+* Reading **Webtoons** and **Light Novels**
 * Playing **Games** with friends
 
 <h2>Find Me</h2>
