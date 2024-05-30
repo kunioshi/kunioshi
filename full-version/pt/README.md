@@ -6,29 +6,29 @@
 <p align="center">
   <a href="https://github.com/kunioshi"><img src="https://github.com/kunioshi.png" width="200" style="border-radius:50%" /></a><br/>
   <font size="+3em" bold><b>Filipe Kunioshi</b></font><br/>
-  <small>Brasileiro - Nascido em 1991 (31 anos)<br/>
+  <small>Brasileiro - Nascido em 1991<br/>
   Atualmente em Londrina, PR, Brasil</small>
 </p>
     
 <h3>Sobre Mim</h3>
 
-* Explorando novas tecnologias e criando novas soluções;
-* **7 anos** de experiência em desenvolvimento de softwares;
-* Trabalhei com muitas linhagens de programação.
+* Apaixonado por arquitetura de software e experiência de usuário;
+* **11 anos** de experiência em desenvolvimento de softwares;
+* Grande gama de experiencias, indo desde desenvolvimento de jogos do começo ao fim até aplicativos bancários.
 
 <h3>Habilidades</h3>
 
 **Linguagens de Programação**
 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Ferramentas de Línguas-Específicas**
 
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=white&color=darkorchid)
@@ -43,7 +43,6 @@
 **Ferramentas Gerais**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=008cd4)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -66,17 +65,19 @@
 
 <h3>Experiências</h3>
 
-* **Desenvolvedor Web (PHP)** em Agencia Tuca <br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Mar 2018 ~ Ago 2021
+* **Engenheiro de Software iOS** at NTT Data EMEAL <br/>Remoto &nbsp;-&nbsp; Abr 2022 ~ Atual
+  * Providenciar consultoria para as soluções de software do cliente e participar do desenvolvimento dos projetos na industria bancária.
+* **Engenheiro de Software PHP** em Agencia Tuca <br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Mar 2018 ~ Ago 2021
   * Desenvolver, integrar, manter e otimizar projetos web de acordo com as necessidades do cliente.
-* **Desenvolvedor Web (PHP)** em Associação Médica Brasileira (AMB)<br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Nov 2016 ~ Mar 2018
+* **Engenheiro de Software PHP** em Associação Médica Brasileira (AMB)<br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Nov 2016 ~ Mar 2018
   * Desenvolver, integrar, manter e otimizar projetos web de alcance nacional visando e promovendo causas comuns dos médicos brasileiros e suas Associações Médicas Regionais.
 * **Atendimento ao Cliente** em Spokes Bicycle Rentals<br/>Vancouver, BC, Canada &nbsp;-&nbsp; Mar 2016 ~ Nov 2016
   * Realizar rotinas de QA e segurança nos produtos e fornecer aos usuários finais orientações e responder suas perguntas.
-* **Desenvolvedor Mobile (iOS)** em Agence Consultoria <br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Ago 2015 ~ Nov 2015
+* **Engenheiro de Software iOS** em Agence Consultoria <br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Ago 2015 ~ Nov 2015
   * Dar continuidade no desenvolvimento de um aplicativo de iPad e trabalhar em conjunto com o time de back-end, auxiliando-os a criar uma nova API para a aplicação.
-* **Desenvolvedor Mobile (iOS)** em Zitro Brothers Entertainment <br/>Burnaby, BC, Canada (remoto) &nbsp;-&nbsp; Nov 2013 ~ Dez 2014
+* **Engenheiro de Software iOS** em Zitro Brothers Entertainment <br/>Burnaby, BC, Canada (remoto) &nbsp;-&nbsp; Nov 2013 ~ Dez 2014
   * Dar continuidade no desenvolvimento, e publicar na App Store, um jogo educacional para iPad, implementando novos recursos e melhorando os já existentes baseando-se no feedback dado, e aprovado pelo cliente.
-* **Estágio de Desenvolvedor Mobile (iOS)** em Brazilian Education Program for iOS Development (BEPiD)<br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Ago 2013 ~ Dez 2014
+* **Estágio de Engenheiro de Software iOS** em Brazilian Education Program for iOS Development (BEPiD)<br/>São Paulo, SP, Brasil &nbsp;-&nbsp; Ago 2013 ~ Dez 2014
   * Aprender e aplicar a metodologia de desenvolvimento e melhores práticas, da Apple, para dispositivos iOS.
 
 <h3>Educação</h3>
@@ -90,8 +91,8 @@
 
 <h3>Hobbies</h3>
 
-* Tocar **Piano**
-* Ler **Light Novels**
+* Aprender **Piano**
+* Ler **Webtoons** e **Light Novels**
 * **Jogar** com os amigos
 
 <h2>Onde me encontrar</h2>
