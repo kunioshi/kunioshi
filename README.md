@@ -1,5 +1,5 @@
 ## About Me
-I'm Filipe, born in 1991, and an iOS and Game Developer.
+I'm Filipe, born in 1991, an iOS and Game Developer.
 I enjoy testing new things and making PoCs.
 
 ## What am I up to?
